@@ -3,6 +3,7 @@
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails/locale for other languages
 
 en:
+  test: 'hello test'
   date:
     formats:
       default: "%Y-%m-%d"
